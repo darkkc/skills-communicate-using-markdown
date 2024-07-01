@@ -5,3 +5,6 @@
 ##### h5
 ###### h6
 regular text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Added sample image
